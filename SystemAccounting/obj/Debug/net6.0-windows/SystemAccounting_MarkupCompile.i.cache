@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Shtra\source\repos\SystemAccounting\SystemAccounting\App.xaml
-11407045341
+7-1799607757
 
-61595310479
+21-648596441
 1941709816142
-MainWindow.xaml;
+MainWindow.xaml;View\Customers.xaml;View\Home.xaml;View\Orders.xaml;View\Products.xaml;View\Settings.xaml;View\Transactions.xaml;
 
 False
 
