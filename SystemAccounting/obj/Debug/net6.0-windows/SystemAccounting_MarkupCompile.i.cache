@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Shtra\source\repos\SystemAccounting\SystemAccounting\App.xaml
-7-1799607757
+13102812901
 
-21-648596441
+24-543433253
 1941709816142
-MainWindow.xaml;View\Customers.xaml;View\Home.xaml;View\Orders.xaml;View\Products.xaml;View\Settings.xaml;View\Transactions.xaml;
+MainWindow.xaml;Styles\Button.xaml;Styles\Image.xaml;Styles\Page.xaml;Styles\Text.xaml;Utilities\DataTemplate.xaml;View\Customers.xaml;View\Home.xaml;View\Orders.xaml;View\Products.xaml;View\Settings.xaml;View\Shipments.xaml;View\Transactions.xaml;
 
-False
+True
 
